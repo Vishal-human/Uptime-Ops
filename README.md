@@ -280,3 +280,19 @@ MIT License — free to use, modify, and distribute.
 ---
 
 🔥 **Uptime-Lite — Simple uptime. Powerful insight. Open-source forever.**
+
+# result and get result of downtime
+
+#Service: Payment API
+Deployment: v2.4.1
+Status: DOWN
+Detected Cause: MongoDB connection timeout
+
+Last 10 Logs:
+--------------------------------
+Error: MongoNetworkError
+at connect (/src/db.js:45)
+
+Crash Time: 10:31 AM IST
+--------------------------------
+
