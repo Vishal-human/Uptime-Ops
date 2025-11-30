@@ -296,3 +296,5 @@ at connect (/src/db.js:45)
 Crash Time: 10:31 AM IST
 --------------------------------
 
+Even site is down and shows and error our site status page must be visible please think about it? is this possible? or need other server? or print the where actual cause kind of in page of status? like from nginx config , memory issue or load and more...
+
